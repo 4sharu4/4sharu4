@@ -56,7 +56,7 @@ I'm a Data Analyst / Business Analyst, passionate about turning data into clear,
 ## 🚀 Featured Projects
 
 - 📊 [Weather_Forecasting – Power BI,Python,ML](https://github.com/4sharu4/bangalore-weather-forecast.git)
-- 📝 [Productivity_analysis_gamification - Python](https://github.com/4sharu4/Productivity_analysis_gamification)
+- 📝 [Productivity_analysis_gamification - Python,Pygetwindow,Pandas](https://github.com/4sharu4/Productivity_analysis_gamification)
 
 ---
 
