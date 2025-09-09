@@ -57,7 +57,7 @@ I'm a Data Analyst / Business Analyst, passionate about turning data into clear,
 
 - 📊 [ForecastFlow-ML-Weather-Pipeline – Python,ML, Power BI](https://github.com/4sharu4/ForecastFlow-ML-Weather-Pipeline.git)
 - 📝 [Productivity_analysis_gamification - Python,Pygetwindow,Pandas](https://github.com/4sharu4/Productivity_analysis_gamification)
-- 📈 [Business_Performance_MOM_Dashbaord - Power BI, DAX, Power Query](https://github.com/4sharu4/Business_Performance_MOM_Dashbaord)
+- 📈 [Business_Performance_MOM_Dashbaord - Power BI, DAX, Power Query](https://github.com/4sharu4/Business-Performance-MOM-Dashboard)
 
 ---
 
